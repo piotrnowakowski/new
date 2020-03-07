@@ -1,2 +1,2 @@
-print elf elf else
+print ("else")
 print

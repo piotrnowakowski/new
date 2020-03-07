@@ -1,2 +1,2 @@
 print ("else")
-print
+print ("czy dziala")
